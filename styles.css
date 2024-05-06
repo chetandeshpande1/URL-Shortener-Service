@@ -1,0 +1,31 @@
+body {
+    padding: 20px;
+    background: linear-gradient(to right, #2987b9, #6dd5fa, #ffd6cc);
+    background-color: #4158D0;
+    margin-top: 40px;
+}
+.heading {
+    text-align: center;
+    
+    margin-bottom: 30px; 
+}
+
+.container {
+    margin-bottom: 0;
+    background-color: rgba(255, 255, 255, 0.4); 
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+button {
+    transition: transform 0.2s ease; 
+}
+
+button:hover {
+    transform: scale(1.1); 
+}
